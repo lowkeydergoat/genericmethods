@@ -1,5 +1,4 @@
 public class GenericUtils {
-
     /**
      * Reverses the elements of the array.
      *
@@ -18,7 +17,6 @@ public class GenericUtils {
             right--;
         }
     }
-
     /**
      * Calculates the sum of all elements in the array.
      * The array must contain numbers.
