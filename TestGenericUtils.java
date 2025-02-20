@@ -7,7 +7,7 @@ public class TestGenericUtils {
         GenericUtils.reverse(intArray);
         System.out.println(Arrays.toString(intArray));
 
-        String[] strArray = {"yousef sheikho", "fabian heler", "lukas hecher", "maroi milkov"};
+        String[] strArray = {"yousef sheikho", "fabian heler", "lukas hecher", "maroi milkov", "testy man"};
         GenericUtils.reverse(strArray);
         System.out.println(Arrays.toString(strArray));
         Double[] doubleArray = {1.5, 2.5, 3.5};
